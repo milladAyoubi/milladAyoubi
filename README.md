@@ -4,7 +4,7 @@
 # I'm Millad Ayoubi - Software Developer and Designer
 
 
-### Skills: Java, Javascript, Node.js, MongoDB, UNIX, MySQL, REST APS's .
+### Skills: Java, Javascript, Node.js, MongoDB, UNIX, MySQL, REST API's
 
 - 🔭 I’m currently working on Back End Development with Express.js and Socket.io
 - 🌱 I’m currently learning Python w/ Django and Web3.js for creating Blockchain applications  
