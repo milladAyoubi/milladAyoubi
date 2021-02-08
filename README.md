@@ -15,6 +15,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=milladAyoubi&show_icons=true)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/milladAyoubi/github-readme-stats)
 
 
