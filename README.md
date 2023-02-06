@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on Front-End Frameworks such as React.js and Angular.js.
 - 🌱 I’m currently learning Python w/ Django and building my skills in UX/UI design.
-- 👯 I’m looking to gain experience and hopefully secure a position in a professional setting.
 - ⚡ I am working towards application that involve both Back-End and Front-End components and are scalable overtime. 
 
 
